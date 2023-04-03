@@ -1,2 +1,2 @@
-# T---SQL
+# T-SQL
 Proyectos SQL
