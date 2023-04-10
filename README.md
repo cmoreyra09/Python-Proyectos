@@ -1,2 +1,1 @@
-# T-SQL
-Proyectos SQL
+Python - Data Science
