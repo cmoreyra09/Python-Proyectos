@@ -23,7 +23,7 @@ def lista(data):
 ## Variable dinámica para la ruta del archivo correspondiente
 ## Esto se cambia de acuerdo al archivo
 
-ruta = r"C:\Users\User\OneDrive\Escritorio\Atento\Data_Calidad_BANCO_GUAYAQUIL.xlsx"
+ruta = r"C:\Users\User\OneDrive\Escritorio\Atento\datadelarchivo.xlsx"
 
 
 # Obtener nombres y dimensiones de las hojas
